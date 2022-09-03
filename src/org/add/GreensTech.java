@@ -16,6 +16,10 @@ public class GreensTech {
 	private void greensAnnaNagar() {
 		System.out.println("selenium");
 	}
+private void greensTanjavore() {
+	System.out.println("api");
+	
+}
 
 	public static void main(String[] args) {
 		GreensTech a=new GreensTech();
@@ -24,6 +28,7 @@ public class GreensTech {
 		a.greensTambaram();
 		a.greensVelacherry();
 		a.greensAnnaNagar();
+		a.greensTanjavore();
 		
 		
 	}
